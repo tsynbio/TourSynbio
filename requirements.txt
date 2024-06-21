@@ -1,0 +1,8 @@
+lagent==0.2.2
+openxlab==0.1.0
+streamlit==1.32.0
+torch==2.3.1
+transformers==4.37.2
+sentencepiece==0.2.0
+accelerate==0.31.0
+einops==0.8.0
