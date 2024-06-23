@@ -19,7 +19,7 @@
     - [本地部署](#本地部署)
   - [重新训练](#重新训练)
 - [致谢](#致谢)
-- [Citation](#citation)
+  - [项目成员](#项目成员)
 - [开源许可证](#开源许可证)
 
 ## 简介
@@ -73,8 +73,14 @@ download(model_repo=[model_link]',
 ### 重新训练
 
 ## 致谢
+### 项目成员
 
-
-## Citation
+ -  陈赞 (途深智合)
+ -  沈逸卿 （途深智合）
+ -  李添斌 （上海AI LAB）
+ -  何军军 （上海AI LAB）
+ -  王宇光 （途深智合）
 
 ## 开源许可证
+
+本项目采用[Apache License 2.0 开源许可证](https://github.com/tsynbio/TourSynbio/blob/main/LICENSE)。
