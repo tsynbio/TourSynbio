@@ -1,4 +1,4 @@
-# TourSynbioLM<sup>TM</sup>
+# TourSynbio<sup>TM</sup>
 <div align="center">
 
 
@@ -188,14 +188,6 @@ XTuner 支持微调大语言模型。数据集预处理指南请查阅[文档](h
     xtuner convert pth_to_hf ${CONFIG_NAME_OR_PATH} ${PTH} ${SAVE_PATH}
     ```
 
-## 致谢
-### 项目成员
-
- -  陈赞 (途深智合)
- -  沈逸卿 （途深智合）
- -  李添斌 （上海AI Lab）
- -  何军军 （上海AI Lab）
- -  王宇光 （途深智合 上海交通大学）
 
 ## 开源许可证
 
