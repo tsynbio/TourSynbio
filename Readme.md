@@ -194,9 +194,7 @@ xtuner train internlm2_7b_protein_lora --deepspeed deepspeed_zero2
 xtuner convert pth_to_hf ${CONFIG_NAME_OR_PATH} ${PTH} ${SAVE_PATH}
 ```
 
-## Acknowledgments
 
-### Project Members
 
 ## Open Source License
 
