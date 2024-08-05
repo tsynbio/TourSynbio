@@ -8,7 +8,7 @@
 [OpenXLab_App-image]: https://cdn-static.openxlab.org.cn/app-center/openxlab_app.svg
 
 [OpenXLab_Model-url]: https://openxlab.org.cn/models/detail/ZanTourSynbio/TourSynbio-7B
-English | [简体中文](README_zh-CN.md)
+English | [简体中文](Readme_zh-CN.md)
 </div>
 
 ## Contents <!-- omit in toc -->
